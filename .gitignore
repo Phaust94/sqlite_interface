@@ -1,0 +1,8 @@
+*.exe
+bot_secrets.py
+secrets_remote.py
+.idea
+*.sqlite
+tst*.py
+*.bat
+.gitsecret/keys/random_seed
